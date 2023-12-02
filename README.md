@@ -2,7 +2,7 @@
 
 Esta es una aplicación de gestión de tareas realizado con Vue 3, Laravel 10 y Bootstrap. Contiene la autenticación de usuario y la gestión. Además envía un correo para notificación de registro, probado con Mailtrap.
 
-La base de datos está hecho con MySql.
+La base de datos está hecho con MySQL
 
 ## Instalación
 
